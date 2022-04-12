@@ -5,8 +5,8 @@
 - 💬 Pergute-me sobre o que você quiser.
 
 <div>
-  <a href="https://github.com/taeltico">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=taeltico=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/taeltico">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nerdstarcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeltico=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   

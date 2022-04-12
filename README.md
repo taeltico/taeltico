@@ -11,6 +11,7 @@
       
       <img src="https://github-readme-stats.vercel.app/api?username=taeltico&show_icons=true&count_private=true&theme=nightowl" width="400"/>
       &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taelticoR&layout=compact&count_private=true&theme=nightowl" alt="languages" height="158"/>
+      </div>
       
     
  <div style="display: inline_block"><br>

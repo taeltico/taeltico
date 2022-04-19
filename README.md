@@ -4,11 +4,7 @@
 - 👯 Procuro estágio como programador web para poder adquirir mais conhecimento.
 - 💬 Pergute-me sobre o que você quiser.
 
-<div>
-   <a href="https://github.com/taeltico">
-   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=taeltico&show_icons=true&count_private=true&theme=dracula"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeltico&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
       
     
 <div style="display: inline_block"><br>

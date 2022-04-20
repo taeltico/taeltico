@@ -1,6 +1,6 @@
 ### Olá, Visitante! Eu sou Rafael👋
 
-- 🌱 Eu estou aprendendo PHP e Vue.js
+- 🌱 Eu estou aprendendo PHP, C e Vue.js
 - 👯 Procuro estágio como programador web para poder adquirir mais conhecimento.
 - 💬 Pergute-me sobre o que você quiser.
 

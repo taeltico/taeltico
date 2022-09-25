@@ -16,10 +16,11 @@
   <a href="https://www.linkedin.com/in/rafael-wanderley-55a10838/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://api.whatsapp.com/send?phone=5521974935875" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
            <a href="https://www.facebook.com/rafaelwanderleyvitor.sa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>   
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-discord%23E4405F?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
+  </div>
  <hr>
 <div>
+
+
    <a href="https://github.com/taeltico">
    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=taeltico&show_icons=true&count_private=true&theme=dracula"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeltico&layout=compact&langs_count=7&theme=dracula"/>

@@ -1,6 +1,6 @@
 ### Olá, Visitante! Eu sou Rafael👋
 
-- 🌱 Eu estou aprendendo Java.
+- 🌱 Eu estou aprendendo Java e banco de dados .
 - 👯 Procuro estágio como programador web para poder adquirir mais conhecimento.
 - 💬 Pergute-me sobre o que você quiser.
 

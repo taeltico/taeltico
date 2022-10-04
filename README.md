@@ -6,7 +6,7 @@
 
 <h3>Portfólio</h3>
 <div>
-  <a href="https://github.com/taeltico/Portifolio-curriculo.git">
+  <a href="https://taeltico.github.io/Portifolio-curriculo/">
 </div>
 <div>
   <hr>

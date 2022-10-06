@@ -10,6 +10,12 @@
 </div>
 <div>
   <hr>
+    <div align="center">
+        <a href="https://github.com/taeltico">
+            <img height="180em"src="https://github-readme-stats.vercel.app/api?username=taeltico&show_icons=true&count_private=true&theme=dracula"></a>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeltico&layout=compact&langs_count=7&theme=dracula"/>
+      <div style="display: inline_block"><br>
+  <hr>
 <h3> Meios de contato</h3>
 <a href="https://www.instagram.com/rio_na_faixa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.rafaelwanderley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
